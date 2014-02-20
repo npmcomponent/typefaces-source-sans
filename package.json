@@ -1,0 +1,20 @@
+{
+  "name": "typefaces-source-sans",
+  "description": "The Source Sans typeface.",
+  "version": "0.0.1",
+  "dependencies": {
+    "typefaces-source-sans-extra-light": "git://github.com/npmcomponent/typefaces-source-sans-extra-light.git",
+    "typefaces-source-sans-extra-light-italic": "git://github.com/npmcomponent/typefaces-source-sans-extra-light-italic.git",
+    "typefaces-source-sans-light": "git://github.com/npmcomponent/typefaces-source-sans-light.git",
+    "typefaces-source-sans-light-italic": "git://github.com/npmcomponent/typefaces-source-sans-light-italic.git",
+    "typefaces-source-sans-regular": "git://github.com/npmcomponent/typefaces-source-sans-regular.git",
+    "typefaces-source-sans-italic": "git://github.com/npmcomponent/typefaces-source-sans-italic.git",
+    "typefaces-source-sans-semibold": "git://github.com/npmcomponent/typefaces-source-sans-semibold.git",
+    "typefaces-source-sans-semibold-italic": "git://github.com/npmcomponent/typefaces-source-sans-semibold-italic.git",
+    "typefaces-source-sans-bold": "git://github.com/npmcomponent/typefaces-source-sans-bold.git",
+    "typefaces-source-sans-bold-italic": "git://github.com/npmcomponent/typefaces-source-sans-bold-italic.git",
+    "typefaces-source-sans-black": "git://github.com/npmcomponent/typefaces-source-sans-black.git",
+    "typefaces-source-sans-black-italic": "git://github.com/npmcomponent/typefaces-source-sans-black-italic.git"
+  },
+  "license": "MIT"
+}
